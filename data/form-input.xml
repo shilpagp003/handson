@@ -1,0 +1,25 @@
+<Students>
+    <Student>
+      <FirstName>John</FirstName>
+      <LastName>Doe</LastName>
+      <Email>john.doe@example.com</Email>
+      <Gender>Male</Gender>
+      <Mobile>9876543210</Mobile>
+      <Hobbies>Reading, Music</Hobbies>
+      <CurrentAddress>123 Maple Street</CurrentAddress>
+      <State>NCR</State>
+      <City>Delhi</City>
+    </Student>
+    <Student>
+      <FirstName>Jane</FirstName>
+      <LastName>Smith</LastName>
+      <Email>jane.smith@example.com</Email>
+      <Gender>Female</Gender>
+      <Mobile>9123456789</Mobile>
+      <Hobbies>Sports</Hobbies>
+      <CurrentAddress>456 Oak Lane</CurrentAddress>
+      <State>Uttar Pradesh</State>
+      <City>Agra</City>
+    </Student>
+  </Students>
+  

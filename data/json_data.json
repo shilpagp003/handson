@@ -1,0 +1,16 @@
+[
+  {
+    "FullName": "John Doe",
+    "Email": "john.doe@example.com",
+    "CurrentAddress": "123 Current St",
+    "PermanentAddress": "456 Permanent Ave",
+    "testResult": "Fail"
+  },
+  {
+    "FullName": "Jane Smith",
+    "Email": "jane.smith@example.com",
+    "CurrentAddress": "789 Current Blvd",
+    "PermanentAddress": "101 Permanent Rd",
+    "testResult": "Fail"
+  }
+]
